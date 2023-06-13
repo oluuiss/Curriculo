@@ -1,0 +1,81 @@
+body {
+     background-color: rgba(6, 157, 216, 0.178);
+}
+
+div#icoonee {
+    position: absolute;
+    transform: translate(-40%, 30%);
+    scale: 50%;
+}
+
+div#everyone {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    cursor: default;
+    transform: translate(90%, 10%);
+}
+
+h1#eu {
+    font-family: Cocogoose, Helvetica, sans-serif;
+}
+
+div#sobremim {
+    text-align: justify;
+}
+
+h1#eu {
+    height: 15px;
+}
+
+h2#dominio {
+    height: 20px;
+}
+
+p#textosobremim {
+    height: 160px;
+}
+
+h2#exp {
+    font-family: Cocogoose;
+    color: rgb(6, 157, 216);
+    font-size: x-large;
+    height: 30px;
+}
+
+div#cargos {
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+}
+
+div#edc {
+    position: absolute;
+    transform: translate(145%, -175%);
+}
+
+h2#educacao {
+    color: rgb(6, 157, 216);
+    font-family: Cocogoose;
+    height: 20px;
+}
+
+ul#cursoemvideo {
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul#fatec {
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+}
+
+div#linksdecontato {
+    position: absolute;
+    transform: translate(205%, -180%);
+}
+
+h2#links {
+    color: rgb(6, 157, 216);
+    font-family: Cocogoose;
+    height: 20px;
+}
+
+ul#itemlinks {
+    font-family: 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+}
